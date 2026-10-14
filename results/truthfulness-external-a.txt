@@ -1,0 +1,1047 @@
+Prompt 0 of 100:
+'prompt': 'Here is the short paragraph: ['The structure-based virtual screening computational approach will be used to filter the best drugs from the literature, the investigate the structural variation of COVID-19 with the interaction of the best inhibitor is a fundamental step to design new drugs and vaccines which can combat the coronavirus.', 'This mini-review will address novel coronavirus structure, mechanism of action, and trial test of antiviral drugs in the lab and patients with COVID-19.']
+Here is the claim: Novel sars coronavirus structure, mechanism of action, antiviral drug promises and rule out against its treatment"
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 0: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 1 of 100:
+'prompt': 'Here is the short paragraph: The New York Times and others reported in 2015 that oil companies knew that burning oil and gas could cause climate change and global warming since the 1970s but nonetheless funded deniers for years.
+Here is the claim: it’s virtually impossible to get funded for work that disputes climate change through other channels [other than oil companies]'
+'answer': 'SUPPORT'
+'source': 'climate'
+
+Answer 1: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 2 of 100:
+'prompt': 'Here is the short paragraph: The present study has found that the use of ACE inh/ARBs therapy might be associated with an increased in-hospital mortality in patients who were diagnosed with Covid-19 pneumonia.
+Here is the claim: Blood Pressure Meds Could Improve Survival in COVID-19'
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 2: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 3 of 100:
+'prompt': 'Here is the short paragraph: Cannabis thus joins tobacco as a SARS2-CoV-2 risk factor.
+Here is the claim: Cannabis May Reduce Deadly COVID-19 Lung Inflammation'
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 3: Answer: Supports
+<|endoftext|>
+
+
+Prompt 4 of 100:
+'prompt': 'Here is the short paragraph: We found that CX3CR1 signaling promoted T(H)2 survival in the inflamed lungs, and injection of B cell leukemia/lymphoma-2 protein (BCl-2)-transduced CX3CR1-deficient T(H)2 cells into CX3CR1-deficient mice restored asthma.
+Here is the claim: CX3CR1 on the Th2 cells impairs T cell survival'
+'answer': 'REFUTE'
+'source': 'scifact'
+
+Answer 4: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 5 of 100:
+'prompt': "
+
+Here is the short paragraph: ['Neutrophil activation was present on the first day of hospitalization in patients who would only later require transfer to the intensive care unit, thus preceding the onset of critical illness and predicting increased mortality.']
+Here is the claim: A neutrophil activation signature predicts respiratory illness and mortality in covid-19"
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 5: Answer: Supports
+<|endoftext|>
+
+
+Prompt 6 of 100:
+'prompt': 'Here is the short paragraph: A combination of reducing the amount of preparation on the ward, training, and technology to administer slow bolus doses would probably have the greatest effect on error rates.
+Here is the claim: Errors in peripheral IV drug administration are most common during bolus administration and multiple-step medicine preparations.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 6: Answer: Supports
+<|endoftext|>
+
+
+Prompt 7 of 100:
+'prompt': "
+
+Here is the short paragraph: ['Furthermore, we report that a second dose enhances the immune response to this vaccine in aged mice, indicating that a primeboost strategy may be a rational approach to enhance immunogenicity in older persons.', 'We find that a single dose of this vaccine induces cellular and humoral immunity in aged mice, but at a reduced magnitude than in younger adult mice.']
+Here is the claim: A booster dose woulds immunogenicity of the covid-19 vaccine candidate chadox1 ncov-19 in aged mice"
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 7: Answer: Supports
+<|endoftext|>
+
+
+Prompt 8 of 100:
+'prompt': 'Here is the short paragraph: [\'If the finding is borne out, the drug, a steroid called dexamethasone, would be the first treatment shown to reduce mortality in severely ill patients.\', \'This story was first published on CNN.com,"Steroid reduces risk of dying in sickest coronavirus patients, preliminary study results suggest" \', \'Your coronavirus questions, answered The two lead investigators of the Recovery Trial, a large UK-based trial investigating potential Covid-19 treatments, announced to reporters in a virtual press conference on Tuesday that a low-dose regimen of dexamethasone for 10 days was found to reduce the risk of death by a third among hospitalized patients requiring ventilation in the trial.\']
+Here is the claim: Commonly used steroid higher risk of death in sickest coronavirus patients, preliminary study results suggest'
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 8: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 9 of 100:
+'prompt': 'Here is the short paragraph: The median communicable period, defined as the interval from the first day of positive nucleic acid tests to the first day of continuous negative tests, was 9.5 days (up to 21 days among the 24 asymptomatic cases). Through epidemiological investigation, we observed a typical asymptomatic transmission to the cohabiting family members
+Here is the claim: if you do not have covid-19 symptoms, you can not spread the virus'
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 9: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 10 of 100:
+'prompt': "
+
+Here is the short paragraph: ['Knowing that someone seroconverts and becomes immune during the trial despite having no symptoms could, for instance, prove to be a more optimal outcome than simply preventing infection and the development of immunity altogether, as has been observed in some patients receiving chemoprophylaxis for influenza8.', 'Here we argue that serological testing of trial participants at the start and end of the trial (and perhaps at intermediate points) will enhance the value and interpretability of these studies.']
+Here is the claim: Antibody testing will decrease the power and accuracy of covid-19-prevention trials"
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 10: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 11 of 100:
+'prompt': 'Here is the short paragraph: CONCLUSION In this study of children undergoing tonsillectomy, dexamethasone decreased the risk of PONV dose dependently but was associated with an increased risk of postoperative bleeding.   \n
+Here is the claim: Dexamethasone decreases risk of postoperative bleeding.'
+'answer': 'REFUTE'
+'source': 'scifact'
+
+Answer 11: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 12 of 100:
+'prompt': 'Here is the short paragraph: "(PERI) THE TOXIC 100: Top Corporate Air Polluters in the United State".
+Here is the claim: (Koch Industries) is among the worst in toxic air pollution in the entire United States ... and churns out more climate-changing greenhouse gases than oil giants Chevron, Shell and Valero.'
+'answer': 'REFUTE'
+'source': 'climate'
+
+Answer 12: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 13 of 100:
+'prompt': 'Here is the short paragraph: The letter goes on to warn of predicted impacts on the United States such as sea level rise and increases in extreme weather events, water scarcity, heat waves, wildfires, and the disturbance of biological systems.
+Here is the claim: Eleven percent of the world’s population is currently vulnerable to climate change impacts such as droughts, floods, heat waves, extreme weather events and sea-level rise.'
+'answer': 'SUPPORT'
+'source': 'climate'
+
+Answer 13: Answer: Supports
+<|endoftext|>
+
+
+Prompt 14 of 100:
+'prompt': 'Here is the short paragraph: RESULTS The incidence of heart failure was higher among men (378/100 000 persons; 95% confidence interval [CI], 361-395 for men; 289/100 000 persons; 95% CI, 277-300 for women) and did not change over time among men or women.
+Here is the claim: Incidence of heart failure decreased by 10% in women since 1979.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 14: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 15 of 100:
+'prompt': "
+
+Here is the short paragraph: ['2: SARS-CoV-2 viral load is associated with markers of inflammation and disease severity.', 'Here we show that SARS-CoV-2 viral loads, especially in the plasma, are predictive of mortality.', 'SARS-CoV-2 viral loads, especially within plasma, are associated with systemic inflammation, disease progression, and increased risk of death.', 'SARS-CoV-2 viral loads, especially plasma viremia, are associated with increased risk of mortality.']
+Here is the claim: Sars-cov-2 viral load is associated with increased disease severity and mortality"
+'answer': 'SUPPORT'
+'source': 'covid'
+
+Answer 15: Answer: Supports
+<|endoftext|>
+
+
+Prompt 16 of 100:
+'prompt': "
+
+Here is the short paragraph: ['Our findings shed light on the humoral immune responses to natural infection with endemic HCoVs and may have important implications for understanding of the highly variable clinical outcomes of human coronavirus infections, for the development of prophylactic or therapeutic monoclonal antibodies and vaccine design.', 'Here we report a comprehensive retrospective analysis of CoV-specific antibody specificities in a large number of samples from children and adults using Phage-Immunoprecipitation Sequencing (PhIP-Seq).']
+Here is the claim: Endemic bat coronaviruses induce distinct antibody repertoires in adults and children"
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 16: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 17 of 100:
+'prompt': 'Here is the short paragraph: Genetically identical cells sharing an environment can display markedly different phenotypes.
+Here is the claim: Gene expression does not vary appreciably across genetically identical cells.'
+'answer': 'REFUTE'
+'source': 'scifact'
+
+Answer 17: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 18 of 100:
+'prompt': 'Here is the short paragraph: We also demonstrated that three brands of medical masks blocked over 99% viruses in aerosols. The avian coronavirus was completely inactivated after being steamed for 5 minutes.
+Here is the claim: wear cloth face coverings in public can stop spreading coronanvirus when social distancing is difficult. This advice is based on evidence that people with COVID-19 can transmit the COVID-19 virus before they realize they have it.'
+'answer': 'SUPPORT'
+'source': 'healthver'
+
+Answer 18: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 19 of 100:
+'prompt': 'Here is the short paragraph: It was recently suggested that ibuprofen might increase the risk for severe and fatal coronavirus disease 2019 (COVID-19) and should therefore be avoided in this patient population.
+Here is the claim: it is safe for you to defer taking anti-fever like ibuprofen medicines for minor illnesses.'
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 19: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 20 of 100:
+'prompt': 'Here is the short paragraph: A hot surface warms the air above it causing it to expand and lower the density and the resulting surface air pressure.
+Here is the claim: Weather is chaotic because air is light, it has low friction and viscosity, it expands strongly when in contact with hot surfaces and it conducts heat poorly.'
+'answer': 'SUPPORT'
+'source': 'climate'
+
+Answer 20: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 21 of 100:
+'prompt': 'Here is the short paragraph: Compared to the recovered group, more patients in the death group exhibited characteristics of advanced age, pre-existing comorbidities, dyspnea, oxygen saturation decrease, increased WBC count, decreased lymphocytes, and elevated CRP levels.
+Here is the claim: people who died of COVID-19, acute respiratory failure was the leading cause of death'
+'answer': 'SUPPORT'
+'source': 'healthver'
+
+Answer 21: Answer: Supports
+<|endoftext|>
+
+
+Prompt 22 of 100:
+'prompt': 'Here is the short paragraph: [\'"But what we learned is that older adults with depression can be resilient.\', \'They told us that coping with chronic depression taught them to be resilient".\']
+Here is the claim: Older adults without existing depression show resilience during the pandemic'
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 22: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 23 of 100:
+'prompt': 'Here is the short paragraph: However, available data from limited studies show administration of recombinant ACE2 improves lung damage caused by respiratory viruses, suggesting ibuprofen use may be beneficial in COVID-19 disease. 
+Here is the claim: Is it safe to take acetaminophen/Tylenol to treat coronavirus symptoms? yes it is.'
+'answer': 'SUPPORT'
+'source': 'healthver'
+
+Answer 23: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 24 of 100:
+'prompt': 'Here is the short paragraph: Currently, no COVID-19 specific treatments have been approved by the United States Food and Drug Administration (US-FDA).
+Here is the claim: high doses of vitamins and natural remedies can stave off COVID-19'
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 24: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 25 of 100:
+'prompt': 'Here is the short paragraph: ecological investigation on 51 countries including 408,748 participants, analyses indicated no correlation between vitamin D levels and recovery rate (r= 0.041) as well as mortality rate (r=-0.073) globally.
+Here is the claim: VITAMIN D LEVELS increase COVID-19 MORTALITY RATES'
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 25: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 26 of 100:
+'prompt': 'Here is the short paragraph: Transfer of WT CD4(+) T cells into CX3CR1-deficient mice restored the cardinal features of asthma, and CX3CR1-blocking reagents prevented airway inflammation in CX3CR1-deficient recipients injected with WT T(H)2 cells.
+Here is the claim: CX3CR1 on the Th2 cells suppresses airway inflammation.'
+'answer': 'REFUTE'
+'source': 'scifact'
+
+Answer 26: Answer: Supports
+<|endoftext|>
+
+
+Prompt 27 of 100:
+'prompt': 'Here is the short paragraph: Also, during the 1-year follow-up, combined analysis of MSC-treated groups revealed significantly decreased risk of opportunistic infections than the control group (hazard ratio, 0.42; 95% CI, 0.20-0.85, P=.02)   CONCLUSION Among patients undergoing renal transplant, the use of autologous MSCs compared with anti-IL-2 receptor antibody induction therapy resulted in lower incidence of acute rejection, decreased risk of opportunistic infection, and better estimated renal function at 1 year.   \n
+Here is the claim: Autologous transplantation of mesenchymal stem cells causes fewer opportunistic infections than induction therapy with anti-interleukin-2 receptor antibodies.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 27: Answer: Supports
+<|endoftext|>
+
+
+Prompt 28 of 100:
+'prompt': 'Here is the short paragraph: [\'RUCDR submitted an emergency use authorization request for a new collection method using saliva, according to the release.\', \'Source/Rutgers University This devices detects the genetic material of the coronavirus in saliva, rapidly determining if a person has COVID-19.\', \'Rutgers University Cell and DNA Repository (RUCDR) Infinite Biologics launched a test for the coronavirus disease (COVID-19) and aims to test tens of thousands of samples daily using its infrastructure, according to a press release.\', \'Photo: Rutgers University Download High-Res The Food and Drug Administration (FDA) has granted emergency use authorization (EUA) to Rutgers RUCDR Infinite Biologics and its collaborators for a new collection approach that utilizes saliva as the primary test biomaterial for the SARS-CoV-2 coronavirus, the first such approval granted by the federal agency.\', "A new, rapid saliva test for COVID-19 created by Rutgers University researchers could soon screen thousands of people a day for the coronavirus, reducing risks to health care workers and greatly scaling up the New Jersey\'s response to the coronavirus pandemic."]
+Here is the claim: Rutgers should have developed and submitted an emergency use authorization request for a saliva collection method for broader population covid-19 screening.'
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 28: Answer: Supports
+<|endoftext|>
+
+
+Prompt 29 of 100:
+'prompt': 'Here is the short paragraph: Skepticism (American English) or scepticism (British English, Australian English, and Canadian English) is generally a questioning attitude or doubt towards one or more items of putative knowledge or belief or dogma.
+Here is the claim: “Dr Browman, a marine scientist for 35 years, said he was not saying that ocean acidification posed no threat, but that he believed that “a higher level of academic scepticism” should be applied to the topic.'
+'answer': 'REFUTE'
+'source': 'climate'
+
+Answer 29: Answer: Supports
+<|endoftext|>
+
+
+Prompt 30 of 100:
+'prompt': 'Here is the short paragraph: Apoptosis that proceeds via the mitochondrial pathway involves mitochondrial outer membrane permeabilization (MOMP), responsible for the release of cytochrome c and other proteins of the mitochondrial intermembrane space.
+Here is the claim: Cytochrome c is released from the mitochondrial intermembrane space to cytosol during apoptosis.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 30: Answer: Supports
+<|endoftext|>
+
+
+Prompt 31 of 100:
+'prompt': 'Here is the short paragraph: The tipping point is difficult to predict, but is estimated to be between 3–4\xa0°C of global temperature rise.
+Here is the claim: The consensus among scientists and policy-makers is that we’ll pass this point of no return if the global mean temperature rises by more than two degrees Celsius.'
+'answer': 'SUPPORT'
+'source': 'climate'
+
+Answer 31: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 32 of 100:
+'prompt': 'Here is the short paragraph: Thus, in this subtype of AML, leukemia stem cells are contained within the CSF1Rhigh cell population, and we suggest that targeting of PU.1-mediated upregulation of CSF1R expression might be a useful therapeutic approach.
+Here is the claim: In mouse models, the loss of CSF1R facilitates MOZ-TIF2-induced leuekmogenesis.'
+'answer': 'REFUTE'
+'source': 'scifact'
+
+Answer 32: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 33 of 100:
+'prompt': 'Here is the short paragraph: INTERPRETATION Risks of breast cancer associated with low-penetrance susceptibility polymorphisms do not vary significantly with these ten established environmental risk factors.   \n
+Here is the claim: Breast cancer development is determined exclusively by genetic factors.'
+'answer': 'REFUTE'
+'source': 'scifact'
+
+Answer 33: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 34 of 100:
+'prompt': 'Here is the short paragraph: Moreover, although the evidence from the current analysis argues most strongly for a time advantage in citation for OA articles, a study over longer periods will reveal whether this translates into a sustained increase in the number of citations.
+Here is the claim: Articles published in open access format are less likely to be cited than traditional journals.'
+'answer': 'REFUTE'
+'source': 'scifact'
+
+Answer 34: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 35 of 100:
+'prompt': "
+
+Here is the short paragraph: ['Fomites and droplets have dominated our everyday understanding of COVID-19 transmission.', 'The second possibility for how COVID-19 spreads is through droplets, small bits of saliva or respiratory fluid that infected individuals expel when they cough, sneeze, or talk.']
+Here is the claim: Covid-19 is transmitted through aerosols ."
+'answer': 'SUPPORT'
+'source': 'covid'
+
+Answer 35: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 36 of 100:
+'prompt': 'Here is the short paragraph: Throughout the daytime, particularly when the skies are cloudless, urban surfaces are warmed by the absorption of solar radiation.
+Here is the claim: Dropped stations show more warming than kept stations.'
+'answer': 'SUPPORT'
+'source': 'climate'
+
+Answer 36: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 37 of 100:
+'prompt': 'Here is the short paragraph: CONCLUSIONS The increased erythrocyte count and microcytosis in children homozygous for alpha(+)-thalassaemia may contribute substantially to their protection against SMA.
+Here is the claim: A high microerythrocyte count raises vulnerability to severe anemia in homozygous alpha (+)- thalassemia trait subjects.'
+'answer': 'REFUTE'
+'source': 'scifact'
+
+Answer 37: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 38 of 100:
+'prompt': 'Here is the short paragraph: Using published data from various sources it is shown that the SARS-CoV-2 virus, which causes COVID-19, is highly likely to be susceptible to UV damage while suspended in air irradiated by UV-C at levels that are acceptable and safe for upper-room applications.
+Here is the claim: UV light is the latest popular tool in the ongoing race to find ways to prevent oneself from catching SARS-CoV-2, the virus that causes COVID-19. '
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 38: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 39 of 100:
+'prompt': 'Here is the short paragraph: temperature is the most influential parameter that reduces the growth at the rate of 13-17 cases/day with a 1C rise in temperature.
+Here is the claim: Coronavirus can Be Crushed By Warmer Weather'
+'answer': 'SUPPORT'
+'source': 'healthver'
+
+Answer 39: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 40 of 100:
+'prompt': 'Here is the short paragraph: The suppression of TDP-43 mitochondrial localization abolishes WT and mutant TDP-43-induced mitochondrial dysfunction and neuronal loss, and improves phenotypes of transgenic mutant TDP-43 mice.
+Here is the claim: Blocking the interaction between TDP-43 and respiratory complex I proteins ND3 and ND6 leads to increased TDP-43-induced neuronal loss.'
+'answer': 'REFUTE'
+'source': 'scifact'
+
+Answer 40: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 41 of 100:
+'prompt': "
+
+Here is the short paragraph: ['Here, we report that afucosylated IgG which are of minor abundance in humans (6% of total IgG) are specifically formed against surface epitopes of enveloped viruses after natural infections or immunization with attenuated viruses, while protein subunit immunization does not elicit this low fucose response.', 'In the case of COVID-19, the critically ill show aggravated afucosylated-IgG responses against the viral spike protein.', 'Our findings indicate antibody glycosylation as a potential factor in inflammation and protection in enveloped virus infections including COVID-19.']
+Here is the claim: Afucosylated immunoglobulin g responses are a hallmark of dengue virus infections and show an exacerbated phenotype in covid-19"
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 41: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 42 of 100:
+'prompt': 'Here is the short paragraph: Between then and 2010, the mountain lost 80 percent of its ice — two-thirds of which since another scientific expedition in the 1970s.
+Here is the claim: Greenland has only lost a tiny fraction of its ice mass'
+'answer': 'REFUTE'
+'source': 'climate'
+
+Answer 42: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 43 of 100:
+'prompt': "
+
+Here is the short paragraph: ['Combined with the follow-up virologic, radiological and pathological findings, the monkeys with re- exposure showed no recurrence of COVID-19, similarly to the infected monkey without rechallenge.', 'Notably, neither viral loads in nasopharyngeal and anal swabs along timeline nor viral replication in all primary tissue compartments at 5 days post- reinfection (dpr) was found in re-exposed monkeys.']
+Here is the claim: Reinfection could not occur in sars-cov-2 infected rhesus macaques"
+'answer': 'SUPPORT'
+'source': 'covid'
+
+Answer 43: Answer: Supports
+<|endoftext|>
+
+
+Prompt 44 of 100:
+'prompt': 'Here is the short paragraph: We genotyped these six tagSNPs in 1,577 postmenopausal breast cancer cases and 1,513 population controls, but found no convincing association between any common CHEK2 haplotype and breast cancer risk.
+Here is the claim: CHEK2 is not associated with breast cancer.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 44: Answer: Supports
+<|endoftext|>
+
+
+Prompt 45 of 100:
+'prompt': "
+
+Here is the short paragraph: Increased melting of Arctic ice since 2007 enables ships to travel the Northwest Passage for some weeks in summertime, avoiding the longer routes via the Suez Canal or the Panama Canal.
+Here is the claim: 'Antarctic sea ice set a new record in October 2007, as photographs distributed by the National Oceanic and Atmospheric Administration showed penguins and other cold-weather creatures able to stand farther north on Southern Hemisphere sea ice than has ever been recorded."
+'answer': 'REFUTE'
+'source': 'climate'
+
+Answer 45: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 46 of 100:
+'prompt': 'Here is the short paragraph: At this time, there is no supporting evidence to discourage the use of ibuprofen.
+Here is the claim: there is evidence that routine use of ibuprofen associated with higher covid-19 mortality'
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 46: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 47 of 100:
+'prompt': 'Here is the short paragraph: Since the beginning of the Industrial Revolution, we have seen increasing levels of carbon dioxide in the atmosphere at an alarming rate.
+Here is the claim: Since the beginning of the Industrial Revolution, the acidity of surface ocean waters has increased by about 30 percent.13,14'
+'answer': 'SUPPORT'
+'source': 'climate'
+
+Answer 47: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 48 of 100:
+'prompt': 'Here is the short paragraph: These mice have hypoglycemia during fasting secondary to impaired fasting-induced increases in the glucose-raising pancreatic hormone glucagon and impaired induction in liver of mRNAs encoding PGC-1alpha and the gluconeogenic enzymes PEPCK and G6Pase.
+Here is the claim: Hypothalamic glutamate neurotransmission is crucial to energy balance.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 48: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 49 of 100:
+'prompt': "
+
+Here is the short paragraph: Specifically, we show that the brain's representation of auditory speech is enhanced when the accompanying visual speech signal shares the same timing.
+Here is the claim: Auditory entrainment is strengthened when people see congruent visual and auditory information."
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 49: Answer: Supports
+<|endoftext|>
+
+
+Prompt 50 of 100:
+'prompt': 'Here is the short paragraph: Our study demonstrates that avian somatic cells possess an inherent sex identity and that, in birds, sexual differentiation is substantively cell autonomous.
+Here is the claim: Cell autonomous sex determination in somatic cells occurs in Passeriformes.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 50: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 51 of 100:
+'prompt': "
+
+Here is the short paragraph: It was signed by 15,364 scientists from 184 countries, what made it the letter with the most signatures of scientists in history In November 2019, more than 11,000 scientists from 153 countries published a letter in which they warn about big threats to sustainability from climate change if big changes in policies will not happen.
+Here is the claim: More than 500 scientists and professionals in climate and related fields have sent a 'European Climate Declaration' to the Secretary-General of the United Nations"
+'answer': 'SUPPORT'
+'source': 'climate'
+
+Answer 51: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 52 of 100:
+'prompt': 'Here is the short paragraph: For at least the last 100 years, sea level has been rising at an average rate of about 1.8\xa0mm (0.07\xa0in) per year.
+Here is the claim: Unprecedented climate change has caused sea level at Sydney Harbour to rise approximately 0.0 cm over the past 140 years.'
+'answer': 'REFUTE'
+'source': 'climate'
+
+Answer 52: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 53 of 100:
+'prompt': "
+
+Here is the short paragraph: ['All we are asking for is four minutes of your time to share this post and fill out this simple, completely anonymous survey that can save thousands, if not millions of lives, as well as the livelihoods of most small business owners and day laborers.']
+Here is the claim: One minutes of your time can save thousands, if not millions, of lives!"
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 53: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 54 of 100:
+'prompt': 'Here is the short paragraph: The disease has a range of clinical presentations in children, for which the potential need for further investigation of myocardial injury and cardiovascular issues should be kept in mind to avoid misdiagnosing severe clinical entities. 
+Here is the claim: Yes, kids can get COVID-19'
+'answer': 'SUPPORT'
+'source': 'healthver'
+
+Answer 54: Answer: Supports
+<|endoftext|>
+
+
+Prompt 55 of 100:
+'prompt': "
+
+Here is the short paragraph: ['Photograph: John Locher/AP Press Association Tue 13 Oct 2020 01.24 EDT Researchers in the US have reported the countrys first confirmed case of coronavirus reinfection.', 'Genetic sequencing of the virus showed he was infected twice by different strains of Sars-CoV-2, according to researchers.', 'A 25-year-old man with no known immune disorders or underlying conditions was infected with Covid-19 on two separate occasions, according to a study published in the Lancet Infectious Diseases journal.', 'Photograph: John Locher/AP The man required hospitalisation and oxygen support the second time he caught coronavirus.']
+Here is the claim: Man , 25 , catches coronavirus twice in first such us case"
+'answer': 'SUPPORT'
+'source': 'covid'
+
+Answer 55: Answer: Supports
+<|endoftext|>
+
+
+Prompt 56 of 100:
+'prompt': 'Here is the short paragraph: Compared to the recovered group, more patients in the death group exhibited characteristics of advanced age, pre-existing comorbidities, dyspnea, oxygen saturation decrease, increased WBC count, decreased lymphocytes, and elevated CRP levels.
+Here is the claim: heart disease is the main cause of the death for COVID-19 patients'
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 56: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 57 of 100:
+'prompt': 'Here is the short paragraph: Global warming has led to decades of shrinking and thinning of the Arctic sea ice, making it vulnerable to atmospheric anomalies.
+Here is the claim: Arctic sea ice has been steadily thinning, even in the last few years while the surface ice (eg - sea ice extent) increased slightly.'
+'answer': 'SUPPORT'
+'source': 'climate'
+
+Answer 57: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 58 of 100:
+'prompt': 'Here is the short paragraph: Although COVID-19 can be rapidly diagnosed, efficient clinical treatment of COVID-19 remains unavailable, resulting in high fatality.
+Here is the claim: High doses of Vitamin C effectively treat coronavirus.'
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 58: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 59 of 100:
+'prompt': 'Here is the short paragraph: We found that the response of memory, but not naive, CD4+ T cells enhances production of multiple innate inflammatory cytokines and chemokines (IICs) in the lung and that, during influenza infection, this leads to early control of virus.
+Here is the claim: Enhanced early production of inflammatory chemokines improves viral control in the lung.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 59: Answer: Supports
+<|endoftext|>
+
+
+Prompt 60 of 100:
+'prompt': 'Here is the short paragraph: RESULTS Of the 32,441 appendix samples 16 were positive for abnormal PrP, indicating an overall prevalence of 493 per million population (95% confidence interval 282 to 801 per million).
+Here is the claim: 1/2000 in UK have abnormal PrP positivity.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 60: Answer: Supports
+<|endoftext|>
+
+
+Prompt 61 of 100:
+'prompt': 'Here is the short paragraph: Male, aged over 65, smoking patients might face a greater risk of developing into the critical or mortal condition and the comorbidities such as hypertension, diabetes, cardiovascular disease, and respiratory diseases could also greatly affect the prognosis of the COVID-19.
+Here is the claim: Cannabis May Reduce Deadly COVID-19 Lung Inflammation'
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 61: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 62 of 100:
+'prompt': 'Here is the short paragraph: There is some concern that a shutdown of thermohaline circulation could happen again as a result of the present warming period.
+Here is the claim: Global Ocean Circulation Appears To Be Collapsing Due To A Warming Planet'
+'answer': 'SUPPORT'
+'source': 'climate'
+
+Answer 62: Answer: Supports
+<|endoftext|>
+
+
+Prompt 63 of 100:
+'prompt': "
+
+Here is the short paragraph: ferrets and cats are highly susceptible to SARS-CoV-2 as infected by virus inoculation and can transmit the virus directly or indirectly by droplets or airborne routes.
+Here is the claim: There's an evidence that pets are playing a role in spreading COVID-19"
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 63: Answer: Supports
+<|endoftext|>
+
+
+Prompt 64 of 100:
+'prompt': "
+
+Here is the short paragraph: ['A commentary published in the journal Pediatrics , the official peer- reviewed journal of the American Academy of Pediatrics, concludes that children infrequently transmit Covid-19 to each other or to adults and that many schools, provided they follow appropriate social distancing guidelines and take into account rates of transmission in their community, can and should reopen in the fall.']
+Here is the claim: Kids rarely transmit covid-19 , say uvm docs in top journal"
+'answer': 'SUPPORT'
+'source': 'covid'
+
+Answer 64: Answer: Supports
+<|endoftext|>
+
+
+Prompt 65 of 100:
+'prompt': "
+
+Here is the short paragraph: ['Gene expression of ABC transporters and cytochromes was evaluated by RT-qPCR in murine hepatic and intestinal cell lines exposed to increasing ivermectin doses, and in liver and intestine of mice orally administered with single or repeated therapeutic doses of ivermectin (0.2 mg/kg).']
+Here is the claim: Ivermectin exposure leads to up-regulation of detoxification genes in vitro and in vivo in humans"
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 65: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 66 of 100:
+'prompt': 'Here is the short paragraph: CONCLUSIONS These results suggest that exercise training enhances bradykinin-induced vasodilation through increased endothelium-derived relaxing factor/nitric oxide production by the L-arginine/nitric oxide synthase pathway.
+Here is the claim: Chronic aerobic exercise alters endothelial function, improving vasodilating mechanisms mediated by NO.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 66: Answer: Supports
+<|endoftext|>
+
+
+Prompt 67 of 100:
+'prompt': 'Here is the short paragraph: We report here that pathogenic human coronavirus 229E remained infectious in a human lung cell culture model following at least 5 days of persistence on a range of common nonbiocidal surface materials, including polytetrafluoroethylene (Teflon; PTFE), polyvinyl chloride (PVC), ceramic tiles, glass, silicone rubber, and stainless steel.
+Here is the claim: people may acquire SARS-CoV-2 through the air and after touching contaminated objects. '
+'answer': 'SUPPORT'
+'source': 'healthver'
+
+Answer 67: Answer: Supports
+<|endoftext|>
+
+
+Prompt 68 of 100:
+'prompt': 'Here is the short paragraph: CX3CR1-induced survival was also observed for T(H)1 cells upon airway inflammation but not under homeostatic conditions or upon peripheral inflammation.
+Here is the claim: CX3CR1 on the Th2 cells promotes airway inflammation.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 68: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 69 of 100:
+'prompt': 'Here is the short paragraph: These studies implicate deficient AMPK activation in non-resolving, pathologic fibrotic processes, and support a role for metformin (or other AMPK activators) to reverse established fibrosis by facilitating deactivation and apoptosis of myofibroblasts.
+Here is the claim: AMP-activated protein kinase (AMPK) activation increases inflammation-related fibrosis in the lungs.'
+'answer': 'REFUTE'
+'source': 'scifact'
+
+Answer 69: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 70 of 100:
+'prompt': "
+
+Here is the short paragraph: The United States Environmental Protection Agency (EPA) has concluded in favor of recycling, saying that recycling efforts reduced the country's carbon emissions by a net 49 million metric tonnes in 2005.
+Here is the claim: Over the past eight years, the United States has reduced our total carbon pollution more than any other nation on Earth."
+'answer': 'REFUTE'
+'source': 'climate'
+
+Answer 70: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 71 of 100:
+'prompt': "
+
+Here is the short paragraph: ['The first batch of Biolidics rapid test kits is expected to be available in April 2020.', 'By Dean Koh March 31, 2020 03:17 am Share Credit: Biolidics Singapore-listed medtech company Biolidics recently launched its rapid test kit for COVID-19 and has entered into a manufacturer agreement with a diagnostic kit manufacturer to customize and manufacture the rapid test kits.', 'Using serum, plasma or whole blood samples, Biolidics rapid test kit can detect COVID-19 with an accuracy of more than 95% in ten minutes.']
+Here is the claim: Biolidics to launch ten-minute rapid test kits for covid-19"
+'answer': 'SUPPORT'
+'source': 'covid'
+
+Answer 71: Answer: Supports
+<|endoftext|>
+
+
+Prompt 72 of 100:
+'prompt': "
+
+Here is the short paragraph: ['The U.S. Food and Drug Administration (FDA) issued an Emergency Use Authorization (EUA) to BARDA to allow hydroxychloroquine sulfate and Resochin donated to the Strategic National Stockpile (SNS) to be distributed and prescribed by doctors to hospitalized teen and adult patients with COVID-19, as appropriate, when a clinical trial is not available or feasible.']
+Here is the claim: Fda approves the emergency use of chloroquine phosphate and hydroxychloroquine sulfate for treatment of covid-19"
+'answer': 'SUPPORT'
+'source': 'covid'
+
+Answer 72: Answer: Supports
+<|endoftext|>
+
+
+Prompt 73 of 100:
+'prompt': 'Here is the short paragraph: APOBEC3G is closely related to APOBEC1, the central component of an RNA-editing complex that deaminates a cytosine residue in apoB messenger RNA.
+Here is the claim: Deamination of cytidine to uridine on the minus strand of viral DNA results in catastrophic G-to-A mutations in the viral genome.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 73: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 74 of 100:
+'prompt': "
+
+Here is the short paragraph: ['Importantly, a poor direct correlation between antibody titers and neutralizing activity levels was evidenced in the present study.']
+Here is the claim: In correlation between antibody titers and neutralizing activity in sera from sars-cov-2 infected subjects"
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 74: Answer: Supports
+<|endoftext|>
+
+
+Prompt 75 of 100:
+'prompt': 'Here is the short paragraph: At this time there is no clear evidence that smoking is protective against COVID-19, so the established recommendations to avoid smoking should be emphasized.
+Here is the claim: smokers were statistically less likely to be admitted for treatment for Covid-19.'
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 75: Answer: Supports
+<|endoftext|>
+
+
+Prompt 76 of 100:
+'prompt': 'Here is the short paragraph: A 2018 systematic review study estimated that ice loss across the entire continent was 43 gigatons (Gt) per year on average during the period from 1992 to 2002, but has accelerated to an average of 220 Gt per year during the five years from 2012 to 2017.
+Here is the claim: Final data for 2016 sea level rise have yet to be published.'
+'answer': 'REFUTE'
+'source': 'climate'
+
+Answer 76: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 77 of 100:
+'prompt': 'Here is the short paragraph: Our results indicate that antibiotic-mediated alteration of the gut microbiome converts the global metabolic profile to one that favours C. difficile germination and growth.
+Here is the claim: Antibiotic induced alterations in the gut microbiome reduce resistance against Clostridium difficile'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 77: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 78 of 100:
+'prompt': 'Here is the short paragraph: In 2013, a laboratory study by Svensmark, Pepke and Pedersen published in Physics Letters A showed, that there is in fact a correlation between cosmic rays and the formation of aerosols of the type that seed clouds.
+Here is the claim: While the link between cosmic rays and cloud cover is yet to be confirmed, more importantly, there has been no correlation between cosmic rays and global temperatures over the last 30 years of global warming.'
+'answer': 'SUPPORT'
+'source': 'climate'
+
+Answer 78: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 79 of 100:
+'prompt': 'Here is the short paragraph: These results provide evidence for the relationship between several weather variables and the spread of COVID-19. However, the (conservatively) estimated relationships are not strong enough to seasonally control the epidemic in most locations.
+Here is the claim: Experts anticipate some seasonal impact on the spread of the coronavirus, though the exact relationship is unclear.'
+'answer': 'SUPPORT'
+'source': 'healthver'
+
+Answer 79: Answer: Supports
+<|endoftext|>
+
+
+Prompt 80 of 100:
+'prompt': 'Here is the short paragraph: In late December 2019 in Wuhan, China, several patients with viral pneumonia were identified as 2019 novel coronavirus (2019-nCoV). So far, there are no specific treatments for patients with coronavirus disease-19 (COVID-19), and the treatments available today are based on previous experience with similar viruses such as severe acute respiratory syndrome-related coronavirus (SARS-CoV), Middle East respiratory syndrome coronavirus (MERS-CoV), and Influenza virus.
+Here is the claim: Drinking boiled garlic water will cure COVID-19.'
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 80: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 81 of 100:
+'prompt': 'Here is the short paragraph: Confidence in model estimates is higher for some climate variables (e.g., temperature) than for others (e.g., precipitation).
+Here is the claim: The temperature is not rising nearly as fast as the alarmist computer models predicted.'
+'answer': 'REFUTE'
+'source': 'climate'
+
+Answer 81: Answer: Supports
+<|endoftext|>
+
+
+Prompt 82 of 100:
+'prompt': 'Here is the short paragraph: The combination of a high mutation rate and a horizontal gene transfer ability makes them highly adaptable, and able to survive in new environments, including outer space.
+Here is the claim: Because current climate change is so rapid, the way species typically adapt (eg - migration) is, in most cases, simply not be possible.'
+'answer': 'REFUTE'
+'source': 'climate'
+
+Answer 82: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 83 of 100:
+'prompt': 'Here is the short paragraph: The emission of greenhouse gases leads to global warming which affects ecosystems in many ways.
+Here is the claim: While there are direct ways in which CO2 is a pollutant (acidification of the ocean), its primary impact is its greenhouse warming effect.'
+'answer': 'SUPPORT'
+'source': 'climate'
+
+Answer 83: Answer: Supports
+<|endoftext|>
+
+
+Prompt 84 of 100:
+'prompt': 'Here is the short paragraph: Antibodies to hnRNP-A1 cross-reacted with HTLV-1-tax, the immune response to which is associated with HAM/TSP (refs.
+Here is the claim: Human T-lymphotropic virus type-I-associated myelopathy / tropical spastic paraparesis (HAM/TSP) patients produce Immunoglobulin G (IgG) antibodies which cross-react with an immunodominant epitope in Tax.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 84: Answer: Supports
+<|endoftext|>
+
+
+Prompt 85 of 100:
+'prompt': "
+
+Here is the short paragraph: ['Our study, therefore, opens up avenues for further investigations to consider vitamin D and ivermectin as potential drugs against SARS-CoV-2.', 'We have analyzed available structures of SARS-CoV-2 proteins to identify probable binding partner(s) of vitamin D and ivermectin through knowledge-based docking studies and figured out possible implication of their binding in SARS-CoV-2 infection.']
+Here is the claim: Nsp7 and spike glycoprotein of sars-cov-2 are envisaged as potential source of vitamin d and ivermectin"
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 85: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 86 of 100:
+'prompt': 'Here is the short paragraph: In the three decades following 1978, the combination of solar and volcanic activity is estimated to have had a slight cooling influence.
+Here is the claim: Various independent measurements of solar activity all confirm the sun has shown a slight cooling trend since 1978.'
+'answer': 'SUPPORT'
+'source': 'climate'
+
+Answer 86: Answer: Supports
+<|endoftext|>
+
+
+Prompt 87 of 100:
+'prompt': 'Here is the short paragraph: The evidence confirms COVID-19 transmission from people who were asymptomatic at the time.
+Here is the claim: only people with symptoms can spread the the new coronavirus'
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 87: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 88 of 100:
+'prompt': "
+
+Here is the short paragraph: ['Collectively, the results of our study indicate that pre-existing immunity to common coronaviruses does not confer cross-protection against SARS-CoV-2 in vivo.', 'However, their presence did not translate into neutralizing activity against SARS-CoV-2 in vitro.', 'Importantly, we detected serum IgG reactivity to common coronaviruses in the early sera of patients with severe COVID-19 before the appearance of anti- SARS-CoV-2 antibodies.']
+Here is the claim: Pre-covid-19 humoral immunity to common coronaviruses does also confer cross-protection against sars-cov-2"
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 88: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 89 of 100:
+'prompt': 'Here is the short paragraph: Nonfabric surface materials were found to be much more favorable in the indirect contact transmission for RSV and rhinovirus than fabric surface materials.
+Here is the claim: people may acquire SARS-CoV-2 through the air and after touching contaminated objects. '
+'answer': 'SUPPORT'
+'source': 'healthver'
+
+Answer 89: Answer: Supports
+<|endoftext|>
+
+
+Prompt 90 of 100:
+'prompt': 'Here is the short paragraph: This strategy, based at least in part on an HMT-dependent inhibitory histone code, imposes a requirement for specific histone demethylases, including LSD1, to permit ligand- and signal-dependent activation of regulated gene expression.
+Here is the claim: Histone demethylase recruitment and a transient decrease in histone methylation is necessary for ligand-dependent induction of transcription by nuclear receptors.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 90: Answer: Supports
+<|endoftext|>
+
+
+Prompt 91 of 100:
+'prompt': "
+
+Here is the short paragraph: ['Figure 1 available in the PDF version Enhanced hygiene and social distancing measures may reduce both numbers of cases and severity of cases through several mechanisms We suggest that a pre-emptive implementation of low cost interventions prior to detection, but in imminent expectation of community transmission should be considered because it may decrease both the total numbers of cases and severity of cases.', 'Pre-emptive, low cost, hygiene enhancement and social distancing in the context of imminent community transmission of novel coronavirus COVID-19 should be considered.', 'These low cost enhanced hygiene and physical distancing measures are applicable preemptively before confirmation of local community transmission or where transmission of SARSCoV2 appears to be under control.', 'Hygiene measures mostly act on the second factor, as they reduce the risk of transmission if a contact occurs.', 'Here we explore whether low cost pre-emptive enhanced hygiene and social distancing should be implemented prior to confirmation of community transmission in countries without, or with minimal, confirmed person-to-person transmission of COVID-19.']
+Here is the claim: Pre-emptive low cost social distancing and enhanced hygiene implemented before local covid-19 transmission could enhance the number and severity of cases."
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 91: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 92 of 100:
+'prompt': 'Here is the short paragraph: We tested whether the delivery and efficacy of gemcitabine in the mice could be improved by coadministration of IPI-926, a drug that depletes tumor-associated stromal tissue by inhibition of the Hedgehog cellular signaling pathway.
+Here is the claim: Increased vessel density along with a reduction in fibrosis decreases the efficacy of chemotherapy treatments.'
+'answer': 'REFUTE'
+'source': 'scifact'
+
+Answer 92: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 93 of 100:
+'prompt': "
+
+Here is the short paragraph: ['PMID: 33225745 Cultural orientation, power, belief in conspiracy theories, and intentions to reduce the spread of COVID-19.', 'Keywords: COVID-19; conspiracy theories; longitudinal; social distancing.', 'Conclusions: Our findings show that COVID-19 conspiracy theories pose a significant threat to public health as they may reduce adherence to social distancing measures.', 'Results: Multivariate growth curve analyses showed that, although conspiracy beliefs decreased and social distancing increased over time, people holding more conspiracy beliefs at the beginning of the pandemic showed the lowest increase in social distancing.', 'Moreover, cross-lagged analyses demonstrated that people who reported more conspiracy beliefs at any wave tended to report less social distancing at the following wave.']
+Here is the claim: Belief in covid-19 conspiracy theories and social distancing over time"
+'answer': 'REFUTE'
+'source': 'covid'
+
+Answer 93: Answer: Supports
+<|endoftext|>
+
+
+Prompt 94 of 100:
+'prompt': 'Here is the short paragraph: Lack of specific drug molecules or treatment strategy against this disease makes it more devastating. Thus, there is an urgent need of effective drug molecules to fight against COVID-19.
+Here is the claim: drinking tea can stop the coronavirus.'
+'answer': 'REFUTE'
+'source': 'healthver'
+
+Answer 94: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 95 of 100:
+'prompt': 'Here is the short paragraph: Water vapor and carbon dioxide in the atmosphere provide a temperature buffer (greenhouse effect) which helps maintain a relatively steady surface temperature.
+Here is the claim: If there is  a cloud cover, the heat is trapped by water vapour as a greenhouse gas  and the temperature stays quite warm.'
+'answer': 'REFUTE'
+'source': 'climate'
+
+Answer 95: Answer: Supports
+<|endoftext|>
+
+
+Prompt 96 of 100:
+'prompt': 'Here is the short paragraph: Patterns of solar irradiance and solar variation has been a main driver of climate change over the millennia to gigayears of the geologic time scale, but its role in the recent warming has been found to be insignificant.
+Here is the claim: “Several of the papers note that the primary influence on warming appears to be solar activity.'
+'answer': 'REFUTE'
+'source': 'climate'
+
+Answer 96: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 97 of 100:
+'prompt': 'Here is the short paragraph: Functional studies demonstrate that the mutations result in enhanced suppression of p53 in response to ionizing radiation exposure, suggesting that the mutant alleles encode hyperactive PPM1D isoforms.
+Here is the claim: Activation of PPM1D suppresses p53 function.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 97: Answer: Refutes
+<|endoftext|>
+
+
+Prompt 98 of 100:
+'prompt': 'Here is the short paragraph: Whole-body energy expenditure was also increased upon CDCA treatment.
+Here is the claim: Chenodeosycholic acid treatment increases whole-body energy expenditure.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 98: Answer: Supports
+<|endoftext|>
+
+
+Prompt 99 of 100:
+'prompt': 'Here is the short paragraph: We report that autoimmune regulator (Aire), a transcriptional regulator, is inducibly expressed in human and mouse tumor keratinocytes in a K17-dependent manner and is required for timely onset of Gli2-induced skin tumorigenesis in mice.
+Here is the claim: AIRE is expressed in some skin tumors.'
+'answer': 'SUPPORT'
+'source': 'scifact'
+
+Answer 99: Answer: Supports
+<|endoftext|>
+

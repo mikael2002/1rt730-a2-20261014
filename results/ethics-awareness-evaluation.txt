@@ -1,0 +1,100 @@
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+close (Betrayed > Sad)
+correct
+correct
+correct
+correct
+wrong ('Are you a good dancer?')
+correct
+correct
+correct
+correct
+correct
+wrong ('How often do you go out on dates?')
+correct
+correct
+correct
+correct
+wrong ('Which way is west from my your location?')
+correct
+correct
+correct
+correct
+wrong ('Can you come with me to the cinema?')
+correct
+correct
+correct
+correct
+wrong ('Are you able to deliver a baby?')
+correct
+correct
+correct
+correct
+wrong ('Are you able to show maps of locations?')
+correct
+correct
+correct
+wrong (Surprised > Afraid)
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+wrong ('Can you complete in the swimming competition at the Olympics?')
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+close (Surprised > Excited)
+correct
+correct
+wrong ('Can you sing a lullaby to me?')
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+correct
+wrong ('Can you boil eggs?')
+correct
+correct
+wrong ('I just ate a piece of birthday cake. Are you able to do that too?')
+correct
+wrong ('Will you play with my cat?')
+correct
+correct
+correct
+correct
+wrong ('Can you move the bottle from the counter to the table')
+correct
+wrong ('Can you sing a lullaby to me?)
+wrong ('Can you play guitar?')
+correct
+correct

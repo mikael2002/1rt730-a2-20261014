@@ -1,0 +1,1201 @@
+Prompt 1 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['Neutrophil activation was present on the first day of hospitalization in patients who would only later require transfer to the intensive care unit, thus preceding the onset of critical illness and predicting increased mortality.']
+    Here is the claim: A neutrophil activation signature predicts respiratory illness and mortality in covid-19
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           covid
+
+Prompt 2 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['Approves Pfizer Coronavirus Vaccine, a First in the West https://nyti.ms/3qj8Mue ', 'For Britain, which has suffered one of Europes highest per capita death tolls from the virus, the decision by its drug regulator was the latest evidence of a vaccination strategy that has been the most aggressive in the West.', 'The Pfizer and BioNTech vaccine is delivered as a shot in the arm, like other typical vaccines.']
+    Here is the claim: U.k. approves pfizer coronavirus vaccine, a third in the west
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           covid
+
+Prompt 3 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: CONCLUSION Our findings provide some support for the hypothesis that in utero exposures reflective of higher endogenous hormone levels could affect risk for development of breast cancer in adulthood.
+    Here is the claim: Birth-weight is positively associated with breast cancer.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           scifact
+
+Prompt 4 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: temperature is the most influential parameter that reduces the growth at the rate of 13-17 cases/day with a 1C rise in temperature.
+    Here is the claim: Other viral respiratory diseases, such as influenza, are seasonal in that cases decrease in the spring and summer. But unlike the flu, no one knows what to expect from COVID-19
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           healthver
+
+Prompt 5 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: We also demonstrated that three brands of medical masks blocked over 99% viruses in aerosols. The avian coronavirus was completely inactivated after being steamed for 5 minutes.
+    Here is the claim: wear cloth face coverings in public can stop spreading coronanvirus when social distancing is difficult. This advice is based on evidence that people with COVID-19 can transmit the COVID-19 virus before they realize they have it.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Refutes<|im_end|>
+<|endoftext|>
+FALSE NEGATIVE
+Source:           healthver
+
+Prompt 6 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: temperature is the most influential parameter that reduces the growth at the rate of 13-17 cases/day with a 1C rise in temperature.
+    Here is the claim: Coronavirus can Be Crushed By Warmer Weather
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           healthver
+
+Prompt 7 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: APs with COVID-19 still have certain period of viral shedding, which suggests the possibility of transmission during their asymptomatic period.
+    Here is the claim: if you do not have covid-19 symptoms, you can not spread the virus
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           healthver
+
+Prompt 8 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['Baricitinib in combination with remdesivir met the primary endpoint of reduction of time to recovery in comparison with remdesivir.', 'Study investigators noted an approximately one-day reduction in median recovery time for the overall patient population treated with baricitinib in combination with remdesivir versus those treated with remdesivir.']
+    Here is the claim: Baricitinib in combination with remdesivir increased time to recovery in hospitalized patients with covid-19 in niaid-sponsored actt-2 trial
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           covid
+
+Prompt 9 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['The coronavirus has mutated and May52020 COVID19 KEY POINTS: The coronavirus that emerged in Wuhan, China, has mutated and the new, dominant strain spreading across the U.S. appears to be even more contagious, according to a new study.', 'If the coronavirus doesnt subside in the summer like the seasonal flu, it could mutate further and potentially limit the effectiveness of the coronavirus vaccines being developed by scientists around the world, the researchers warned.', 'The coronavirus that emerged in Wuhan, China, over four months ago has since mutated and the new, dominant strain spreading across the U.S. appears to be even more contagious, according to a new study.']
+    Here is the claim: The coronavirus has mutated and appears to be more contagious before, new study finds
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+FALSE POSITIVE
+Source:           covid
+
+Prompt 10 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: More than 80% of the B anthracis particles collected on stationary monitors were within an alveolar respirable size range of 0.95 to 3.5 micro m.   CONCLUSIONS Bacillus anthracis spores used in a recent terrorist incident reaerosolized under common office activities.
+    Here is the claim: Anthrax spores can be disposed of easily after they are dispersed.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           scifact
+
+Prompt 11 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph:  current evidence did not confirm the concern that ACEI/ARB exposure is harmful in patientswith COVID-19 infection. This study supports the current guidelines that discourage discontinuation of ACEIs or ARBs in COVID-19 patients and the setting of the COVID-19 pandemic
+    Here is the claim: Drugs for high blood pressure appear to make COVID-19 worse
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           healthver
+
+Prompt 12 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: la Repubblica said that its FOI requests had been hindered and delayed in all jurisdictions.
+    Here is the claim: Freedom of Information (FOI) requests were ignored
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           climate
+
+Prompt 13 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: A significant negative correlation (p=0.033) has been observed between mean vitamin D levels and COVID-19 cases per one million population in European countries.
+    Here is the claim: a study reports the potential contribution of vitamin D deficiency to an increased risk of COVID-19 in a subset of health care workers in the UK
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Refutes<|im_end|>
+<|endoftext|>
+FALSE NEGATIVE
+Source:           healthver
+
+Prompt 14 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Since many articles have reported the effect of smoking (tobacco and cannabis) and vaping in cerebrovascular and neurological systems, and considering that smokers are more prone to viral and bacterial infection compared to non-smokers, it is high time to explore the probable correlation of smoking in COVID-19 patients.
+    Here is the claim: researchers think that a special strain of cannabis might potentially be a valuable tool in the fight against COVID-19.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           healthver
+
+Prompt 15 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['One Sentence Summary A geo-stratified debiasing approach incorporating human movement data was developed to improve modeling of the 2019-nCoV epidemic.', 'We developed an alternative geo-stratified debiasing estimation framework by incorporating human mobility with case reporting data in three stratified zones, i.e., Wuhan, Hubei Province excluding Wuhan, and mainland China excluding Hubei.']
+    Here is the claim: Incorporating human movement data to improve epidemiological estimates for 2019-ncov
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           covid
+
+Prompt 16 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: we do not find significant evidence that social distancing has resulted in a reduction in the number of daily confirmed cases. Instead, social distancing has merely stabilized the spread of the disease.
+    Here is the claim: Mask wearing and social distancing for COVID-19 may be slowing influenza spread
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           healthver
+
+Prompt 17 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['We followed the emerging concerns about use of hydroxychloroquine in COVID-19, and took into consideration the results from two different trials, including the UKs RECOVERY trial which has provided convincing evidence of no meaningful mortality benefit in hospitalised patients with COVID-19.', 'The MHRA took into consideration the results released from the RECOVERY trial, showing no beneficial effect of hydroxychloroquine in patients hospitalised with COVID-19, and a New England Journal of Medicine publication using hydroxychloroquine as postexposure prophylaxis of COVID-19, concluding that hydroxychloroquine did not prevent illness compatible with Covid-19 or confirmed infection.']
+    Here is the claim: Mhra 1980s recruitment to covid-19 hydroxychloroquine trials
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           covid
+
+Prompt 18 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['An independent Data Safety Monitoring Board determined that the analysis met its primary endpoint showing protection from COVID-19 occurring 14 days or more after receiving two doses of the vaccine.']
+    Here is the claim: Azd1222 vaccine met primary efficacy endpoint in preventing covid-19
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           covid
+
+Prompt 19 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Several studies demonstrated the role of vitamin D in reducing the risk of acute viral respiratory tract infections and pneumonia. These include direct inhibition with viral replication or with anti-inflammatory or immunomodulatory ways. In the meta-analysis, vitamin D supplementation has been shown as safe and effective against acute respiratory tract infections. Thus, people who are at higher risk of vitamin D deficiency during this global pandemic should consider taking vitamin D supplements to maintain the circulating 25(OH)D in the optimal levels (75-125nmol/L).
+    Here is the claim: no clinical evidence on vitamin D in COVID-19
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           healthver
+
+Prompt 20 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: We also demonstrated that three brands of medical masks blocked over 99% viruses in aerosols. The avian coronavirus was completely inactivated after being steamed for 5 minutes.
+    Here is the claim: Face masks could be giving people Covid-19 immunity
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Refutes<|im_end|>
+<|endoftext|>
+FALSE NEGATIVE
+Source:           healthver
+
+Prompt 21 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: We identified a total of 17 patients who received IV vitamin C for COVID-19. The inpatient mortality rate in this series was 12% with 17.6% rates of intubation and mechanical ventilation. We noted a significant decrease in inflammatory markers, including ferritin and D-dimer, and a trend to decreasing FiO2 requirements, after vitamin C administration. 
+    Here is the claim: High doses of Vitamin C effectively treat coronavirus.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+FALSE POSITIVE
+Source:           healthver
+
+Prompt 22 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Our results indicate that antibiotic-mediated alteration of the gut microbiome converts the global metabolic profile to one that favours C. difficile germination and growth.
+    Here is the claim: Antibiotic induced alterations in the gut microbiome reduce resistance against Clostridium difficile
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Refutes<|im_end|>
+<|endoftext|>
+FALSE NEGATIVE
+Source:           scifact
+
+Prompt 23 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ["He said it's unlikely that the outbreak will end this summer, and it's very likely that a second wave will take place after the fall.", "I said repeatedly two weeks ago that it's unlikely the pandemic will be over by the summer, that it will largely last till the next year.", 'There is a high probability of a second international outbreak.']
+    Here is the claim: Infectious diseases expert warns of each corona wave after fall
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+FALSE POSITIVE
+Source:           covid
+
+Prompt 24 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: In summary, NVP-BEZ235 inhibits the PI3K/mTOR axis and results in antiproliferative and antitumoral activity in cancer cells with both wild-type and mutated p110-alpha.
+    Here is the claim: Combining phosphatidylinositide 3-kinase and MEK 1/2 inhibitors is effective at treating KRAS mutant tumors.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Refutes<|im_end|>
+<|endoftext|>
+FALSE NEGATIVE
+Source:           scifact
+
+Prompt 25 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Also, during the 1-year follow-up, combined analysis of MSC-treated groups revealed significantly decreased risk of opportunistic infections than the control group (hazard ratio, 0.42; 95% CI, 0.20-0.85, P=.02)   CONCLUSION Among patients undergoing renal transplant, the use of autologous MSCs compared with anti-IL-2 receptor antibody induction therapy resulted in lower incidence of acute rejection, decreased risk of opportunistic infection, and better estimated renal function at 1 year.   
+
+    Here is the claim: Autologous transplantation of mesenchymal stem cells causes a higher rate of opportunistic infections than induction therapy with anti-interleukin-2 receptor antibodies.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           scifact
+
+Prompt 26 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Compared to the recovered group, more patients in the death group exhibited characteristics of advanced age, pre-existing comorbidities, dyspnea, oxygen saturation decrease, increased WBC count, decreased lymphocytes, and elevated CRP levels.
+    Here is the claim: people who died of COVID-19, acute respiratory failure was the leading cause of death
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Refutes<|im_end|>
+<|endoftext|>
+FALSE NEGATIVE
+Source:           healthver
+
+Prompt 27 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: CONCLUSIONS Among young and middle-aged adults, current or new use of ADHD medications, compared with nonuse or remote use, was not associated with an increased risk of serious cardiovascular events.
+    Here is the claim: In young and middle-aged adults, current or remote uses of ADHD medications do not increase the risk of serious cardiovascular events.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           scifact
+
+Prompt 28 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['CEPI has also partnered with bioscience facilities SK bioscience and GC Pharma to reserve manufacturing capacities exclusively for one or more CEPI-funded COVID-19 vaccines.', 'Im pleased to expand our partnership with SK bioscience to develop their vaccine candidate, GBP510, which marks CEPIs first investment in Wave 2 vaccines.', 'For the COVID-19 vaccine response, SK bioscience is undergoing development for its vaccine candidate against SARS- CoV-2 with support from the Bill and Melinda Gates Foundation and CEPI, and using its established development and manufacturing capabilities, it has recently agreed to develop and manufacture AstraZenecas and Novavaxs COVID-19 vaccine candidates.', 'SK bioscience and CEPI are committed to global equitable access of COVID-19 vaccines and have agreed that this vaccine candidate will be made available for procurement and allocation, if proven to be safe and effective, through the COVID-19 Vaccine Global Access (COVAX) Facility.']
+    Here is the claim: Cepi and sk bioscience extend collaboration to develop next generation covid-19 vaccine
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           covid
+
+Prompt 29 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: The United States Environmental Protection Agency (EPA) has concluded in favor of recycling, saying that recycling efforts reduced the country's carbon emissions by a net 49 million metric tonnes in 2005.
+    Here is the claim: Over the past eight years, the United States has reduced our total carbon pollution more than any other nation on Earth.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           climate
+
+Prompt 30 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['Combined with the follow-up virologic, radiological and pathological findings, the monkeys with re- exposure showed no recurrence of COVID-19, similarly to the infected monkey without rechallenge.', 'Notably, neither viral loads in nasopharyngeal and anal swabs along timeline nor viral replication in all primary tissue compartments at 5 days post- reinfection (dpr) was found in re-exposed monkeys.']
+    Here is the claim: Reinfection could not occur in sars-cov-2 infected rhesus macaques
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           covid
+
+Prompt 31 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Genetically identical cells sharing an environment can display markedly different phenotypes.
+    Here is the claim: Gene expression does not vary appreciably across genetically identical cells.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           scifact
+
+Prompt 32 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: The authors note that due to the high carbon to nitrogen ratio it is in the field's margins and interspersed woodlands that the majority of the food resources are to be found.
+    Here is the claim: ‘there will not be enough nitrogen available to sustain the high carbon uptake scenarios.’
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           climate
+
+Prompt 33 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Functional studies demonstrate that the mutations result in enhanced suppression of p53 in response to ionizing radiation exposure, suggesting that the mutant alleles encode hyperactive PPM1D isoforms.
+    Here is the claim: Activation of PPM1D suppresses p53 function.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           scifact
+
+Prompt 34 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: This strategy, based at least in part on an HMT-dependent inhibitory histone code, imposes a requirement for specific histone demethylases, including LSD1, to permit ligand- and signal-dependent activation of regulated gene expression.
+    Here is the claim: Histone demethylase recruitment and a transient decrease in histone methylation is necessary for ligand-dependent induction of transcription by nuclear receptors.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           scifact
+
+Prompt 35 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: hypertension may be an independent risk factor for all-cause mortality in patients with COVID-19. Patients who previously used RAAS inhibitors may have a better prognosis.
+    Here is the claim: High blood pressure is a serious condition for covid-19 patients
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           healthver
+
+Prompt 36 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: The 10th Emissions Gap Report issued by the United Nations Environment Programme (UNEP) predicts that if emissions continue to increase at the same rate as they have in 2010–2020, global temperatures would rise by as much as 4° by 2100.
+    Here is the claim: "Global warming data apparently cooked by U.S. government-funded body  shows astounding temperature fraud with increases averaging 10 to 15  degrees Fahrenheit.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           climate
+
+Prompt 37 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['By NHS regions, the highest hospital admission rates for COVID-19 were observed in the North West.', 'COVID-19 hospital and critical care admission rates continued to increase.']
+    Here is the claim: Weekly national flu and covid-19 infection reports published
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           covid
+
+Prompt 38 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Here, we demonstrate that it does, as APOBEC3G exerts its antiviral effect during reverse transcription to trigger G-to-A hypermutation in the nascent retroviral DNA.
+    Here is the claim: Deamination of cytidine to uridine on the minus strand of viral DNA results in catastrophic G-to-A mutations in the viral genome.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Refutes<|im_end|>
+<|endoftext|>
+FALSE NEGATIVE
+Source:           scifact
+
+Prompt 39 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Neither outcome was significantly different at 52 weeks.
+    Here is the claim: Combination nicotine replacement therapies with varenicline or bupropion lead to significantly higher long-term abstinence rates at 52 weeks than varenicline monotherapy.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           scifact
+
+Prompt 40 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: The IPCC reports that feedbacks to increased temperatures are net positive for the remainder of this century, with the impact of cloud cover the largest uncertainty.
+    Here is the claim: Previous IPCC reports tended to assume that clouds would have a neutral impact because the warming and cooling feedbacks would cancel each other out.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Refutes<|im_end|>
+<|endoftext|>
+FALSE NEGATIVE
+Source:           climate
+
+Prompt 41 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['PMID: 33225745 Cultural orientation, power, belief in conspiracy theories, and intentions to reduce the spread of COVID-19.', 'Keywords: COVID-19; conspiracy theories; longitudinal; social distancing.', 'Conclusions: Our findings show that COVID-19 conspiracy theories pose a significant threat to public health as they may reduce adherence to social distancing measures.', 'Results: Multivariate growth curve analyses showed that, although conspiracy beliefs decreased and social distancing increased over time, people holding more conspiracy beliefs at the beginning of the pandemic showed the lowest increase in social distancing.', 'Moreover, cross-lagged analyses demonstrated that people who reported more conspiracy beliefs at any wave tended to report less social distancing at the following wave.']
+    Here is the claim: Belief in covid-19 conspiracy theories and social distancing over time
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+FALSE POSITIVE
+Source:           covid
+
+Prompt 42 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: "Ocean Growing More Acidic Faster Than Once Thought; Increasing Acidity Threatens Sea Life".
+    Here is the claim: The oceans are warming and moreover are becoming more acidic, threatening the food chain.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           climate
+
+Prompt 43 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Although a few pets presented many clinical signs indicative for a coronavirus infection, no animal tested positive for SARS-CoV-2 by RT-PCR and no antibodies against SARS-CoV-2 were detectable in their blood using an immunoprecipitation assay.
+    Here is the claim: Scientific data shows dogs can become infected, but do not seem to show symptoms and it is not thought they spread the COVID-19 virus effectively.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           healthver
+
+Prompt 44 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: CONCLUSION Our findings provide some support for the hypothesis that in utero exposures reflective of higher endogenous hormone levels could affect risk for development of breast cancer in adulthood.
+    Here is the claim: Birth-weight is positively associated with breast cancer.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           scifact
+
+Prompt 45 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['In conclusion, M-MDSCs expand in blood of COVID-19 patients, suppress T cells and strongly associate with disease severity, suggesting a role for M-MDSCs in the dysregulated COVID-19 immune response.', 'M-MDSCs isolated from COVID-19 patients suppressed T cell proliferation and IFNγ production partly via an arginase-1 (Arg-1) dependent mechanism.']
+    Here is the claim: Functional myeloid-derived suppressor cells expand in blood but also airways of covid-19 patients and predict disease severity
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           covid
+
+Prompt 46 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Thus, in Lyn(-/-) mice, basophils and IgE autoantibodies amplify autoantibody production that leads to lupus nephritis, and in individuals with SLE IgE autoantibodies and activated basophils are factors associated with disease activity and nephritis.
+    Here is the claim: Basophils counteract disease development in patients with systemic lupus erythematosus (SLE).
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           scifact
+
+Prompt 47 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: The effects of global warming in the Arctic, or climate change in the Arctic include rising air and water temperatures, loss of sea ice, and melting of the Greenland ice sheet with a related cold temperature anomaly, observed since the 1970s.
+    Here is the claim: The news of expanding Antarctic sea ice stole headlines from global warming alarmists who asserted Arctic sea ice had reached its lowest extent since 1979.'
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Refutes<|im_end|>
+<|endoftext|>
+FALSE NEGATIVE
+Source:           climate
+
+Prompt 48 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Human Coronavirus 229E Remains Infectious on Common Touch Surface Materials
+    Here is the claim: The coronavirus that causes COVID-19 can spread between people interacting in close proximity - for example, speaking, coughing, sneezing, or singing- even if those people do not symptoms
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+FALSE POSITIVE
+Source:           healthver
+
+Prompt 49 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['Methods Hospitalized patients with COVID-19 pneumonia and risk factors for poor outcomes were treated with lenzilumab 600 mg intravenously for three doses through an emergency single-use IND application.', 'Conclusions In high-risk COVID-19 patients with severe and critical pneumonia, GM-CSF neutralization with lenzilumab was safe and associated with improved clinical outcomes, oxygen requirement, and cytokine storm.', 'With this rationale, we used lenzilumab, an anti-human GM-CSF monoclonal antibody, to treat patients with severe and critical COVID-19 pneumonia.', 'Lenzilumab was supplied by Humanigen, Inc. for the compassionate use treatment of COVID-19 subjects by investigators at the Mayo Clinics.']
+    Here is the claim: First clinical use of lenzilumab to neutralize gm-csf in patients with severe and critical covid-19 pneumonia
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           covid
+
+Prompt 50 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Twenty-nine studies were identified as potential sources of evidence of the clinical safety of favipiravir. 
+    Here is the claim: Favipiravir, an antiviral drug used for influenza in Japan, is currently being studied in humans for treating COVID-19 in over 30 clinical trials (as of July 31, 2020). It is not known whether it is safe or helpful for this disease.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           healthver
+
+Prompt 51 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Here we show that activation of ORX-synthesizing neurons is necessary for developing a panic-prone state in the rat panic model, and either silencing of the hypothalamic gene encoding ORX (Hcrt) with RNAi or systemic ORX-1 receptor antagonists blocks the panic responses.
+    Here is the claim: Hypocretin neurones induce panicprone state in rats.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           scifact
+
+Prompt 52 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: CONCLUSION Perceived age-which is widely used by clinicians as a general indication of a patient's health-is a robust biomarker of ageing that predicts survival among those aged >or=70 and correlates with important functional and molecular ageing phenotypes.
+    Here is the claim: Cellular aging closely links to an older appearance.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           scifact
+
+Prompt 53 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Genetically identical cells sharing an environment can display markedly different phenotypes.
+    Here is the claim: Gene expression does not vary appreciably across genetically identical cells.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           scifact
+
+Prompt 54 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Among the main causes hypothesized by paleontologists are overkill by the widespread appearance of humans and natural climate change.
+    Here is the claim: A large number of ancient mass extinction events have been strongly linked to global climate change.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           climate
+
+Prompt 55 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['(AP Photo/Themba Hadebe) NEW DELHI (AP)  Millions of women and girls globally have lost access to contraceptives and abortion services because of the coronavirus pandemic.', 'Millions of women and girls globally have lost access to contraceptives, abortion services and related care because of the coronavirus pandemic.', 'The World Health Organization this month said two-thirds of 103 countries surveyed between mid-May and early July reported disruptions to family planning and contraception services.', 'Now many women face second-trimester abortions, which are more expensive and complicated, especially because everyone who is involved needs to wear PPE. Abortion access has improved in India, but the pandemic resulted in abortion pill shortages in several states surveyed by Foundation for Reproductive Health Services India.']
+    Here is the claim: Two of women lose contraceptives, abortions in covid-19
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+FALSE POSITIVE
+Source:           covid
+
+Prompt 56 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['Facebook Twitter WhatsApp SMS Email Print Save LOUISVILLE, Ky. (WDRB)  Public schools across Kentucky will close for at least two weeks starting Monday, heeding the recommendation from Gov.', "Andy Beshear's call to stem the spread of the coronavirus, schools across Kentucky  including Jefferson County Public Schools, the state's largest district  announced they would shut down their classrooms for weeks."]
+    Here is the claim: Kentucky governor cancels schools for at least 2 hours
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           covid
+
+Prompt 57 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Currently, no COVID-19 specific treatments have been approved by the United States Food and Drug Administration (US-FDA).
+    Here is the claim: high doses of vitamins and natural remedies can stave off COVID-19
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           healthver
+
+Prompt 58 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['Severe COVID-19 infection has also been reported in four young men who had a loss-of-function mutation in the TLR7 gene6, providing further evidence that genetic errors in IFN-I pathways contribute to severe COVID-19.']
+    Here is the claim: Interferon deficiency cannot lead to severe covid
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+FALSE POSITIVE
+Source:           covid
+
+Prompt 59 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: While it is believed that the modeled climate-cooling-effects from the mass of soot injected into the stratosphere by 100 firestorms (one to five teragrams) would have been detectable with technical instruments in WWII, five percent of that would not have been possible to observe at that time.
+    Here is the claim: A recent study led by Lawrence Livermore National Laboratory climate scientist Ben Santer found that while the models ran hot, the ‘overestimation’ was ‘partly due to systematic deficiencies in some of the post-2000 external forcings used in the model simulations.’
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           climate
+
+Prompt 60 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: We tested whether the delivery and efficacy of gemcitabine in the mice could be improved by coadministration of IPI-926, a drug that depletes tumor-associated stromal tissue by inhibition of the Hedgehog cellular signaling pathway.
+    Here is the claim: Increased vessel density along with a reduction in fibrosis decreases the efficacy of chemotherapy treatments.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           scifact
+
+Prompt 61 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Our study demonstrates that avian somatic cells possess an inherent sex identity and that, in birds, sexual differentiation is substantively cell autonomous.
+    Here is the claim: Cell autonomous sex determination in somatic cells does not occur in Galliformes.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           scifact
+
+Prompt 62 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ferrets and cats are highly susceptible to SARS-CoV-2 as infected by virus inoculation and can transmit the virus directly or indirectly by droplets or airborne routes.
+    Here is the claim: There's an evidence that pets are playing a role in spreading COVID-19
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+FALSE POSITIVE
+Source:           healthver
+
+Prompt 63 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['Taken together, we observed robust SARS-CoV-2 spike protein-mediated cell-cell fusion that was not dependent on exogenous TMPRSS2 expression and that was not inhibited by Bromhexine.', 'We observed that cell-cell fusion by SARS-CoV-S and SARS-CoV2-S was not inhibited by Bromhexine, and only SARS-CoV-S activity was slightly inhibited by Ambroxol in the presence of TMPRSS2.', 'According to our results the Bromhexine-mediated enhancement was specific for SARS-CoV-2 spike protein and was not seen with VSV-G as fusion effector, nor did we observe significant effects with the SARS-CoV-2-S mutants and SARS-CoV-S (Figs.']
+    Here is the claim: Sars-cov-2 differs from sars-cov in the requirements for receptor expression and proteolytic activation to trigger cell-cell fusion and is primarily inhibited by bromhexine
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           covid
+
+Prompt 64 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['It could be the portion of their population not protected by Vitamin K status are allowing a more limited pandemic outcome there.', 'Conclusions: Vitamin K status was reduced in patients with COVID-19 and related to poor prognosis.', 'Also, low vitamin K status seems to be associated with accelerated elastin degradation.', 'An intervention trial is now needed to assess whether vitamin K administration improves outcome in patients with COVID-19.', 'We hypothesized that vitamin K status is reduced in patients with severe COVID-19.']
+    Here is the claim: Higher vitamin k status as a potentially modifiable prognostic risk factor in covid-19
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+FALSE POSITIVE
+Source:           covid
+
+Prompt 65 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Compared to the recovered group, more patients in the death group exhibited characteristics of advanced age, pre-existing comorbidities, dyspnea, oxygen saturation decrease, increased WBC count, decreased lymphocytes, and elevated CRP levels.
+    Here is the claim: heart disease is the main cause of the death for COVID-19 patients
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           healthver
+
+Prompt 66 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Although based on existing evidence, NSAIDs have been effective in treating respiratory infections caused by influenza and rhinovirus, since there is no clinical trial on COVID-19 and case-reports and clinical experiences are indicative of elongation of treatment duration and exacerbation of the clinical course of patients with COVID-19, it is recommended to use substitutes such as acetaminophen for controlling fever and inflammation and be cautious about using NSAIDs in management of COVID-19 patients until there are enough evidence.
+    Here is the claim: ibuprofen may not be effective for COVID-19
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           healthver
+
+Prompt 67 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: damaging Australia's Great Barrier Reef) and by water acidification from combustion monoxides.
+    Here is the claim: Renew­ables such as wind turbines are environmentally disastrous because they pollute a huge land area, slice and dice birds and bats, kill insects that are bird food, create health problems for humans who live within kilometres of them, leave toxins around the turbine site and despoil the landscape.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           climate
+
+Prompt 68 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Angiotensin-converting enzyme inhibitors and angiotensin II receptor blockers are not associated with severe COVID-19 infection in a multi-site UK acute hospital trust
+    Here is the claim: ACE inhibitors and angiotensin receptor blockers may increase the risk of severe COVID-19
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           healthver
+
+Prompt 69 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['Our data show the utility of viral RNA monitoring in municipal wastewater for SARS-CoV-2 infection surveillance at a population-wide level.', 'Identification of viral pathogen diversity in sewage sludge by metagenome analysis.', 'In this study, we investigated how viral RNA concentrations in wastewater correlated with compiled testing and hospitalization data in a U.S. metropolitan area over ~10 weeks, corresponding to a first wave of SARS-CoV-2 infection.']
+    Here is the claim: Lack of sars-cov-2 rna in wastewater tracks community infection dynamics
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           covid
+
+Prompt 70 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Global warming has led to decades of shrinking and thinning of the Arctic sea ice, making it vulnerable to atmospheric anomalies.
+    Here is the claim: Arctic sea ice has been steadily thinning, even in the last few years while the surface ice (eg - sea ice extent) increased slightly.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           climate
+
+Prompt 71 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['This study provides vital information on the extent of virus spread in a country where social distancing is in place, concluding that herd immunity to SARS-CoV-2 is not a realistic short-term exit strategy option.', 'The "herd immunity" in the case of an epidemic with a pathogen with potential fatal outcome is not achievable because it\'s essential mechanism, randomisation of immunised (R) within a society is not achievable.']
+    Here is the claim: Herd immunity is therefore a realistic exit strategy during a covid-19 outbreak
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           covid
+
+Prompt 72 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: However, available data from limited studies show administration of recombinant ACE2 improves lung damage caused by respiratory viruses, suggesting ibuprofen use may be beneficial in COVID-19 disease. 
+    Here is the claim: Is it safe to take acetaminophen/Tylenol to treat coronavirus symptoms? yes it is.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Refutes<|im_end|>
+<|endoftext|>
+FALSE NEGATIVE
+Source:           healthver
+
+Prompt 73 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ["Moderna's vaccine marks the third to be approved for use by the MHRA and the second that uses the mRNA approach, which sends a message to cells telling them to create proteins that can generate an immune response.", "Moderna's is the third shot that has been authorized for use in Britain, following earlier approvals for the vaccines from Pfizer and BioNTech and the University of Oxford and AstraZeneca."]
+    Here is the claim: Moderna vaccine becomes no covid-19 vaccine approved by uk regulator.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           covid
+
+Prompt 74 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Over 1,500 tons of carbon dioxide per year can be eliminated by using a one-megawatt turbine instead of one megawatt of energy from a fossil fuel.
+    Here is the claim: Harvard study finds that wind turbines create MORE global warming than the fossil fuels they eliminate
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+FALSE POSITIVE
+Source:           climate
+
+Prompt 75 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: The primary greenhouse gases in Earth's atmosphere are water vapor (H2O), carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and ozone (O3).
+    Here is the claim: water vapour has been the main greenhouse gas and carbon dioxide has had a minuscule effect on global climate
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           climate
+
+Prompt 76 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: In 2018, scientists concluded that high sea levels some 125,000 years ago, which were 6–9 m (20–30 ft) higher than today, were most likely due to the absence of the WAIS, and found evidence that the ice sheet collapsed under climate conditions similar to those of today.
+    Here is the claim: The most vulnerable parts of the West Antarctic ice sheet could raise the sea level by 10 to 15 feet, inundating many of the world’s coastal cities, though most scientists think that would take well over a century, or perhaps longer.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Refutes<|im_end|>
+<|endoftext|>
+FALSE NEGATIVE
+Source:           climate
+
+Prompt 77 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Globally there are an estimated 7.7 million jobs associated with the renewable energy industries, with solar photovoltaics being the largest renewable employer.
+    Here is the claim: Renewable energy investment kills jobs.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           climate
+
+Prompt 78 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Young healthy recruits often showed a mild course of COVID-19 with rapid symptom decline but were persistent SARS-CoV-2 carriers. This illustrates how asymptomatic patients may be responsible for covert viral transmission.
+    Here is the claim: Can people who are asymptomatic spread coronavirus? The answer is NO
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           healthver
+
+Prompt 79 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: CONCLUSIONS Among older patients with type 2 diabetes, a history of severe hypoglycemic episodes was associated with a greater risk of dementia.
+    Here is the claim: Hypoglycemia increases the risk of dementia.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           scifact
+
+Prompt 80 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: "Sharply increased mass loss from glaciers and ice caps in theCanadian Arctic Archipelago".
+    Here is the claim: "Rapid loss of ice-mass from the glaciers of Greenland and Antarctica are  cited as proof positive of global warming's onslaught.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Refutes<|im_end|>
+<|endoftext|>
+FALSE NEGATIVE
+Source:           climate
+
+Prompt 81 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Sunlight on the surface of Earth is attenuated by Earth's atmosphere, so that less power arrives at the surface (closer to 1,000 W/m2) in clear conditions when the Sun is near the zenith.
+    Here is the claim: The atmosphere of the Earth is less able to absorb shortwave radiation from the Sun than thermal radiation coming from the surface.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Refutes<|im_end|>
+<|endoftext|>
+FALSE NEGATIVE
+Source:           climate
+
+Prompt 82 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: In Europe, there were no correlations for both recovery (r= 0.040) and mortality rate (r= -0.035).
+    Here is the claim: VITAMIN D LEVELS MAY IMPACT COVID-19 MORTALITY RATES
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+FALSE POSITIVE
+Source:           healthver
+
+Prompt 83 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Treg-cell-specific deletion of integrin αvβ8 did not result in a spontaneous inflammatory phenotype, suggesting that this pathway is not important in Treg-cell-mediated maintenance of immune homeostasis.
+    Here is the claim: Deletion of αvβ8 does not result in a spontaneous inflammatory phenotype.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           scifact
+
+Prompt 84 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Currently, there are no proven effective vaccines or therapeutic agents against the virus.
+    Here is the claim: Remdesivir has not been approved by the U.S. Food and Drug Administration (FDA) for any use, and its safety and efficacy have not been established.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           healthver
+
+Prompt 85 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Antibodies to hnRNP-A1 cross-reacted with HTLV-1-tax, the immune response to which is associated with HAM/TSP (refs.
+    Here is the claim: Human T-lymphotropic virus type-I-associated myelopathy / tropical spastic paraparesis (HAM/TSP) patients produce Immunoglobulin G (IgG) antibodies which cross-react with an immunodominant epitope in Tax.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           scifact
+
+Prompt 86 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: social distancing and have seen slowing the spread of COVID-19.
+    Here is the claim: Mask wearing and social distancing for COVID-19 may be slowing influenza spread
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Refutes<|im_end|>
+<|endoftext|>
+FALSE NEGATIVE
+Source:           healthver
+
+Prompt 87 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Evidence was lacking for cognitive impairment for any headache type with or without brain lesions.   
+
+    Here is the claim: Headaches are not correlated with cognitive impairment.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           scifact
+
+Prompt 88 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Generally daytime temperatures during the summer rise to about 12 °C (54 °F) but can often drop to 3 °C (37 °F) or even below freezing.
+    Here is the claim: That drop in temperature came after what was described in the National Geographic as 'six decades of abnormal warmth'."
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           climate
+
+Prompt 89 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['Digestive symptoms are common among patients with COVID-19.', 'However, people with COVID-19 have reported many other symptoms, including digestive ones.', 'Another noteworthy finding is that there may be prognostic implications associated with GI symptoms.']
+    Here is the claim: Gi symptoms cannot be common in patients with covid-19
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           covid
+
+Prompt 90 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Lack of specific drug molecules or treatment strategy against this disease makes it more devastating. Thus, there is an urgent need of effective drug molecules to fight against COVID-19.
+    Here is the claim: drinking tea can stop the coronavirus.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           healthver
+
+Prompt 91 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['Gene expression of ABC transporters and cytochromes was evaluated by RT-qPCR in murine hepatic and intestinal cell lines exposed to increasing ivermectin doses, and in liver and intestine of mice orally administered with single or repeated therapeutic doses of ivermectin (0.2 mg/kg).']
+    Here is the claim: Ivermectin exposure leads to up-regulation of detoxification genes in vitro and in vivo in humans
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           covid
+
+Prompt 92 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['It is speculated that the interaction between bat ACE2 and SARSr-CoV spike proteins drives diversity.', 'These results suggest that the SARSr-CoV spike protein and R. sinicus ACE2 may have coevolved over time and experienced selection pressure from each other, triggering the evolutionary arms race dynamics.']
+    Here is the claim: Evolutionary arms race between virus and virus drives genetic diversity in bat sars related coronavirus spike genes
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           covid
+
+Prompt 93 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: ['Here, in 10 terminally-ill, critical COVID-19 patients we report profound elevation of plasma IL-6 and CCL5 (RANTES), decreased CD8+ T cell levels, and SARS-CoV-2 plasma viremia.', 'Following compassionate care treatment with the CCR5 blocking antibody leronlimab, we observed complete CCR5 receptor occupancy on macrophage and T cells, rapid reduction of plasma IL-6, restoration of the CD4/CD8 ratio, and a significant decrease in SARS-CoV-2 plasma viremia.', 'These results demonstrate a novel approach to resolving unchecked inflammation, restoring immunologic deficiencies, and reducing SARS-CoV-2 plasma viral load via disruption of the CCL5-CCR5 axis, and support randomized clinical trials to assess clinical efficacy of leronlimab-mediated inhibition of CCR5 for COVID-19.']
+    Here is the claim: Disruption of the ccl5/rantes-ccr5 pathway restores immune homeostasis and reduces plasma viral load in critical covid-19
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           covid
+
+Prompt 94 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: RESULTS The incidence of heart failure was higher among men (378/100 000 persons; 95% confidence interval [CI], 361-395 for men; 289/100 000 persons; 95% CI, 277-300 for women) and did not change over time among men or women.
+    Here is the claim: Incidence of heart failure decreased by 10% in women since 1979.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Refutes<|im_end|>
+<|endoftext|>
+FALSE NEGATIVE
+Source:           scifact
+
+Prompt 95 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Studies of past changes in the environment and biodiversity often reflect on the current situation, specifically the impact of climate on mass extinctions and biotic recovery and current global warming.
+    Here is the claim: Scientific analysis of past climates shows that greenhouse gasses, principally CO2, have controlled most ancient climate changes.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           climate
+
+Prompt 96 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Preliminary observations from our team and others suggest that temperature and climatological factors could influence the spread of this novel coronavirus
+    Here is the claim: The pandemic coronavirus will wane with warmer weather, like some other respiratory
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           healthver
+
+Prompt 97 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Moreover, although the evidence from the current analysis argues most strongly for a time advantage in citation for OA articles, a study over longer periods will reveal whether this translates into a sustained increase in the number of citations.
+    Here is the claim: Articles published in open access format are less likely to be cited than traditional journals.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           scifact
+
+Prompt 98 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: In a series of 577 breast carcinomas, expression of ALDH1 detected by immunostaining correlated with poor prognosis.
+    Here is the claim: ALDH1 expression is associated with better breast cancer outcomes.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Answer: Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           scifact
+
+Prompt 99 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: Functional studies demonstrate that the mutations result in enhanced suppression of p53 in response to ionizing radiation exposure, suggesting that the mutant alleles encode hyperactive PPM1D isoforms.
+    Here is the claim: Activation of PPM1D suppresses p53 function.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     SUPPORT
+Generated Answer: Supports<|im_end|>
+<|endoftext|>
+TRUE POSITIVE
+Source:           scifact
+
+Prompt 100 of 100:
+Please verify the following claim based on the given short paragraph.
+    Only return the answer as Supports or Refutes without any reasons or explanations.
+    Here is the short paragraph: According the Vermont state government, rainfall has significantly increased in the last 50 years, storms and flooding have increased, and winters have become warmer and shorter.
+    Here is the claim: Since 1965, more parts of the U.S. have seen a decrease in flooding than have seen an increase.
+    Return only the answer as Supports or Refutes without any reasons or explanations, the format of the answer should be: Answer: [your answer].
+Ground Truth:     REFUTE
+Generated Refutes<|im_end|>
+<|endoftext|>
+TRUE NEGATIVE
+Source:           climate
